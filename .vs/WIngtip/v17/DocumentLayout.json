@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\checkout\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\checkout\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\checkout\\checkouterror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\checkout\\checkouterror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\checkout\\checkoutcancel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\checkout\\checkoutcancel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\checkout\\checkoutcomplete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\checkout\\checkoutcomplete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\checkout\\checkoutreview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\checkout\\checkoutreview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\checkout\\checkoutstart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\checkout\\checkoutstart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\logic\\shoppingcartactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\logic\\shoppingcartactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\productlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\productlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\addtocart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\addtocart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\addtocart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\addtocart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|c:\\users\\lance aguirre huerta\\source\\repos\\wingtip\\wingtip\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\productlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\productlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\wingtip\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928FF001-F1A1-41BD-98BC-E92E5324A403}|WIngtip\\WIngtip.csproj|solutionrelative:wingtip\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\Web.config",
+              "RelativeDocumentMoniker": "WIngtip\\Checkout\\Web.config",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\Web.config",
+              "RelativeToolTip": "WIngtip\\Checkout\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-15T20:27:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutError.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutError.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\Checkout\\CheckoutError.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutError.aspx",
+              "RelativeToolTip": "WIngtip\\Checkout\\CheckoutError.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T20:26:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutCancel.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutCancel.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\Checkout\\CheckoutCancel.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutCancel.aspx",
+              "RelativeToolTip": "WIngtip\\Checkout\\CheckoutCancel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T20:25:49.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutComplete.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutComplete.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\Checkout\\CheckoutComplete.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutComplete.aspx",
+              "RelativeToolTip": "WIngtip\\Checkout\\CheckoutComplete.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T20:25:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutReview.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutReview.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\Checkout\\CheckoutReview.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutReview.aspx",
+              "RelativeToolTip": "WIngtip\\Checkout\\CheckoutReview.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T20:24:46.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutStart.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutStart.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\Checkout\\CheckoutStart.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Checkout\\CheckoutStart.aspx",
+              "RelativeToolTip": "WIngtip\\Checkout\\CheckoutStart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T20:24:11.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "WIngtip\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:22:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\Order.cs",
+              "RelativeToolTip": "WIngtip\\Models\\Order.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:21:11.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShoppingCartActions.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Logic\\ShoppingCartActions.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Logic\\ShoppingCartActions.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Logic\\ShoppingCartActions.cs",
+              "RelativeToolTip": "WIngtip\\Logic\\ShoppingCartActions.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAswNYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:21:25.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingCart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ShoppingCart.aspx.cs",
+              "RelativeDocumentMoniker": "WIngtip\\ShoppingCart.aspx.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ShoppingCart.aspx.cs",
+              "RelativeToolTip": "WIngtip\\ShoppingCart.aspx.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:43:24.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Models\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\ProductContext.cs",
+              "RelativeToolTip": "WIngtip\\Models\\ProductContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:15:41.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShoppingCart.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ShoppingCart.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\ShoppingCart.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ShoppingCart.aspx",
+              "RelativeToolTip": "WIngtip\\ShoppingCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T19:33:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Site.Master",
+              "RelativeDocumentMoniker": "WIngtip\\Site.Master",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Site.Master",
+              "RelativeToolTip": "WIngtip\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T22:27:38.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Site.Master.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Site.Master.cs",
+              "RelativeToolTip": "WIngtip\\Site.Master.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:44:37.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductList.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ProductList.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\ProductList.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ProductList.aspx",
+              "RelativeToolTip": "WIngtip\\ProductList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T22:39:18.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddToCart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\AddToCart.aspx.cs",
+              "RelativeDocumentMoniker": "WIngtip\\AddToCart.aspx.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\AddToCart.aspx.cs",
+              "RelativeToolTip": "WIngtip\\AddToCart.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:26:33.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddToCart.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\AddToCart.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\AddToCart.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\AddToCart.aspx",
+              "RelativeToolTip": "WIngtip\\AddToCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T19:26:22.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cartitem.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\Cartitem.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Models\\Cartitem.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\Cartitem.cs",
+              "RelativeToolTip": "WIngtip\\Models\\Cartitem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:14:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ProductDetails.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\ProductDetails.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ProductDetails.aspx",
+              "RelativeToolTip": "WIngtip\\ProductDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T22:39:44.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ProductDetails.aspx.cs",
+              "RelativeDocumentMoniker": "WIngtip\\ProductDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ProductDetails.aspx.cs",
+              "RelativeToolTip": "WIngtip\\ProductDetails.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:35:06.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Default.aspx",
+              "RelativeDocumentMoniker": "WIngtip\\Default.aspx",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Default.aspx",
+              "RelativeToolTip": "WIngtip\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T22:07:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ProductList.aspx.cs",
+              "RelativeDocumentMoniker": "WIngtip\\ProductList.aspx.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\ProductList.aspx.cs",
+              "RelativeToolTip": "WIngtip\\ProductList.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:13:16.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Web.config",
+              "RelativeDocumentMoniker": "WIngtip\\Web.config",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Web.config",
+              "RelativeToolTip": "WIngtip\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAADiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T22:23:17.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Global.asax.cs",
+              "RelativeToolTip": "WIngtip\\Global.asax.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:22:08.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\Category.cs",
+              "RelativeToolTip": "WIngtip\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:11:28.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WIngtip\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lance Aguirre Huerta\\source\\repos\\WIngtip\\WIngtip\\Models\\Product.cs",
+              "RelativeToolTip": "WIngtip\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:10:31.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
